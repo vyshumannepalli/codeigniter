@@ -79,7 +79,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <body>
 
 <div id="container">
-	<h1>Welcome to CodeIgniter! - Hello from EC2!! - <?PHP echo php_uname("a"); ?></h1>
+	<h1>Welcome to CodeIgniter! - Hello from EC2!!! - <?PHP echo php_uname("a"); ?></h1>
 
 	<div id="body">
 		<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
